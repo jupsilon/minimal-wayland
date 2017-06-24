@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol name="minimal_wayland">
+
+  <copyright>
+  </copyright>
+
+  <interface name="minimal_wayland" version="1">
+    <description summary="">
+      (omit)
+    </description>
+    <request name="quit">
+      <description summary="quit compositor">
+	(omit)
+      </description>
+    </request>
+  </interface>
+</protocol>
